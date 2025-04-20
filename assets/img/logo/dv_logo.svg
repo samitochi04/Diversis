@@ -1,0 +1,10 @@
+<svg width="300" height="300" viewBox="0 0 300 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="0" height="0" fill="none"/>
+    <!-- Instead of using a single text element, we'll use two separate text elements -->
+    <text x="26%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="250" font-weight="bold" fill="#3a3f44">
+      D
+    </text>
+    <text x="75%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="250" font-weight="bold" fill="#0d83fd">
+      V
+    </text>
+</svg>
