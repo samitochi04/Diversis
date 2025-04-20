@@ -12,7 +12,7 @@ Diversis is a digital business building service that helps entrepreneurs and sma
 - **Hosting, Deployment & Maintenance** - Ensuring sites stay fast, secure, and always online
 
 ## Contact Information
-- **Email:** info@example.com
+- **Email:** temmodaryl317@gmail.com
 - **Phone (WhatsApp only):** +33 7 64 82 81 53
 - **Location:** Working throughout Africa
 
@@ -42,5 +42,30 @@ This website has been extensively customized to match the Diversis brand, includ
 - Tailored content for digital business building services
 - Modified contact form with EmailJS integration
 - Africa-focused business reach and testimonials
+
+## License
+
+### Diversis Custom License
+
+Copyright © 2024 Diversis
+
+1. **Permission for Improvements**:
+   - You are permitted to suggest improvements and modifications to this software.
+   - All suggested improvements must be approved by the copyright holder (Diversis) before implementation.
+   - Contributors retain credit for their contributions but do not gain ownership rights to the original work.
+
+2. **Restrictions**:
+   - Commercial use of this software, in whole or in part, is expressly prohibited without prior written permission from the copyright holder.
+   - Distribution of modified versions is not permitted without explicit approval from the copyright holder.
+   - The software may not be included as part of a product or service offered for sale without a separate licensing agreement.
+
+3. **No Warranty**:
+   - The software is provided "as is", without warranty of any kind, express or implied.
+   - The copyright holder is not liable for any damages arising from the use of this software.
+
+4. **Attribution**:
+   - Any use of this software must maintain all copyright notices, acknowledgments, and attributions contained in the original work.
+
+For permissions beyond the scope of this license, please contact: temmodaryl317@gmail.com
 
 © Diversis - All Rights Reserved
